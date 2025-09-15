@@ -1,0 +1,9 @@
+server.port: '8081'
+
+spring:
+  application.name: moderation-microservice
+
+app:
+  banned-words:
+    - ódio
+    - xingamentos
